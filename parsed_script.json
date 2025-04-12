@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "total_scenes": 4,
+    "total_words": 75,
+    "average_complexity": 0.3409551656920078,
+    "estimated_duration": 37.5,
+    "visual_requirements": {
+      "total_diagrams": 0,
+      "total_images": 0
+    }
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "title": "# Cultural Breakdown of India",
+      "scene_type": "main_content",
+      "states": [
+        "Cultural Breakdown",
+        "India"
+      ],
+      "features": [],
+      "visual_cues": [],
+      "natural_content": "# Cultural Breakdown of India",
+      "metadata": {
+        "word_count": 5,
+        "complexity_score": 0.35555555555555557,
+        "estimated_duration": 2.5
+      }
+    },
+    {
+      "scene": 2,
+      "title": "## Introduction",
+      "scene_type": "introduction",
+      "states": [
+        "Home",
+        "Known",
+        "India",
+        "Introduction"
+      ],
+      "features": [
+        "Home to multiple religions, languages, and traditions",
+        "Known for its unity in diversity"
+      ],
+      "visual_cues": [],
+      "natural_content": "## Introduction India is a diverse country with rich cultural heritage. Home to multiple religions, languages, and traditions. Known for its unity in diversity.",
+      "metadata": {
+        "word_count": 24,
+        "complexity_score": 0.3744444444444444,
+        "estimated_duration": 12.0
+      }
+    },
+    {
+      "scene": 3,
+      "title": "## Regional Cultures",
+      "scene_type": "explanation",
+      "states": [
+        "Mughal",
+        "North India",
+        "South India",
+        "Regional Cultures",
+        "Strong",
+        "Temple",
+        "Unique",
+        "Known",
+        "Traditional",
+        "Influenced"
+      ],
+      "features": [
+        "Traditional music and dance forms",
+        "Influenced by Mughal culture",
+        "Known for its rich cuisine",
+        "Strong classical traditions",
+        "Unique film industry",
+        "Temple architecture"
+      ],
+      "visual_cues": [],
+      "natural_content": "## Regional Cultures ### North India Influenced by Mughal culture. Known for its rich cuisine. Traditional music and dance forms. ### South India Strong classical traditions. Temple architecture. Unique film industry.",
+      "metadata": {
+        "word_count": 31,
+        "complexity_score": 0.3055555555555556,
+        "estimated_duration": 15.5
+      }
+    },
+    {
+      "scene": 4,
+      "title": "## Modern India",
+      "scene_type": "summary",
+      "states": [
+        "Modern India",
+        "Blend",
+        "Growing",
+        "Evolving"
+      ],
+      "features": [
+        "Evolving social norms",
+        "Blend of traditional and contemporary values",
+        "Growing technology sector"
+      ],
+      "visual_cues": [],
+      "natural_content": "## Modern India Blend of traditional and contemporary values. Growing technology sector. Evolving social norms.",
+      "metadata": {
+        "word_count": 15,
+        "complexity_score": 0.32826510721247565,
+        "estimated_duration": 7.5
+      }
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "metadata": {
+    "total_scenes": 7,
+    "total_words": 182,
+    "average_complexity": 0.4368147320118552,
+    "estimated_duration": 91.0,
+    "visual_requirements": {
+      "total_diagrams": 8,
+      "total_images": 8
+    }
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "title": "# Educational Content Structure",
+      "scene_type": "main_content",
+      "states": [
+        "Educational Content Structure"
+      ],
+      "features": [],
+      "weighted_features": [],
+      "visual_cues": [],
+      "natural_content": "# Educational Content Structure",
+      "metadata": {
+        "word_count": 4,
+        "estimated_duration": 2.0,
+        "complexity_score": 0.3983263888888888,
+        "complexity_metrics": {
+          "lexical_complexity": 0.214,
+          "syntactic_complexity": 0.008,
+          "semantic_complexity": 0.033,
+          "grammar_complexity": 0.037,
+          "readability_complexity": 0.105,
+          "avg_word_length": 9.0,
+          "complex_word_ratio": 0.667,
+          "lexical_diversity": 1.0,
+          "avg_sentence_length": 3.0,
+          "clausal_density": 0.0,
+          "subordination_ratio": 0.0,
+          "entity_density": 0.333,
+          "academic_ratio": 0.0,
+          "sentence_types": {
+            "simple": 1,
+            "compound": 0,
+            "complex": 0,
+            "compound_complex": 0
+          },
+          "flesch_reading_ease": -50.02,
+          "flesch_kincaid_grade": 21.0,
+          "gunning_fog": 14.53,
+          "smog_index": 0.0
+        }
+      }
+    },
+    {
+      "scene": 2,
+      "title": "## Introduction to Computer Science",
+      "scene_type": "diagram_required",
+      "states": [
+        "Computer",
+        "Flowchart",
+        "Home",
+        "Introduction",
+        "Known",
+        "Computer Science"
+      ],
+      "features": [
+        "Home to multiple disciplines and applications",
+        "Known for its impact on modern technology"
+      ],
+      "weighted_features": [
+        {
+          "text": "Home to multiple disciplines and applications",
+          "importance": 0.76
+        },
+        {
+          "text": "Known for its impact on modern technology",
+          "importance": 0.76
+        }
+      ],
+      "visual_cues": [
+        "[Diagram: Flowchart showing the relationship between different CS disciplines]",
+        "[Diagram: @@diagram: Flowchart showing the relationship between different CS disciplines]",
+        "[Chart: @@diagram: Flowchart showing the relationship between different CS disciplines]",
+        "[Flowchart: @@diagram: Flowchart showing the relationship between different CS disciplines]"
+      ],
+      "natural_content": "## Introduction to Computer Science Computer science is the study of computation, algorithms, and information processing. Home to multiple disciplines and applications. Known for its impact on modern technology. @@diagram: Flowchart showing the relationship between different CS disciplines.",
+      "metadata": {
+        "word_count": 38,
+        "estimated_duration": 19.0,
+        "complexity_score": 0.4363253678678678,
+        "complexity_metrics": {
+          "lexical_complexity": 0.161,
+          "syntactic_complexity": 0.038,
+          "semantic_complexity": 0.054,
+          "grammar_complexity": 0.056,
+          "readability_complexity": 0.127,
+          "avg_word_length": 6.62,
+          "complex_word_ratio": 0.432,
+          "lexical_diversity": 0.838,
+          "avg_sentence_length": 9.25,
+          "clausal_density": 0.75,
+          "subordination_ratio": 0.0,
+          "entity_density": 0.108,
+          "academic_ratio": 0.432,
+          "sentence_types": {
+            "simple": 2,
+            "compound": 2,
+            "complex": 0,
+            "compound_complex": 0
+          },
+          "flesch_reading_ease": 11.28,
+          "flesch_kincaid_grade": 14.0,
+          "gunning_fog": 16.69,
+          "smog_index": 14.2
+        }
+      }
+    },
+    {
+      "scene": 3,
+      "title": "## Data Structures and Algorithms",
+      "scene_type": "image_required",
+      "states": [
+        "Quick Sort",
+        "Data Structures",
+        "Data",
+        "Big",
+        "Comparison",
+        "Fundamental Concepts",
+        "Algorithms",
+        "Important",
+        "Sorting Algorithms",
+        "Merge Sort",
+        "Bubble Sort",
+        "Visual"
+      ],
+      "features": [
+        "Important: Algorithms are step-by-step procedures for calculations",
+        "Bubble Sort is one of the simplest but least efficient algorithms",
+        "Quick Sort has an average time complexity of O(n log n)",
+        "Big O notation measures algorithm efficiency",
+        "Merge Sort uses a divide-and-conquer approach",
+        "Data structures organize and store data efficiently"
+      ],
+      "weighted_features": [
+        {
+          "text": "Important: Algorithms are step-by-step procedures for calculations",
+          "importance": 1.0
+        },
+        {
+          "text": "Bubble Sort is one of the simplest but least efficient algorithms",
+          "importance": 1.0
+        },
+        {
+          "text": "Quick Sort has an average time complexity of O(n log n)",
+          "importance": 0.89
+        },
+        {
+          "text": "Big O notation measures algorithm efficiency",
+          "importance": 0.8799999999999999
+        },
+        {
+          "text": "Merge Sort uses a divide-and-conquer approach",
+          "importance": 0.8599999999999999
+        },
+        {
+          "text": "Data structures organize and store data efficiently",
+          "importance": 0.76
+        }
+      ],
+      "visual_cues": [
+        "[Visual: Comparison of sorting algorithm runtimes]",
+        "[Image: Visual representation of common data structures]",
+        "[Image: @@image: Visual representation of common data structures]"
+      ],
+      "natural_content": "## Data Structures and Algorithms ### Fundamental Concepts Important: Algorithms are step-by-step procedures for calculations. Big O notation measures algorithm efficiency. Data structures organize and store data efficiently. @@image: Visual representation of common data structures. ### Sorting Algorithms Quick Sort has an average time complexity of O(n log n). Bubble Sort is one of the simplest but least efficient algorithms. Merge Sort uses a divide-and-conquer approach. [Visual: Comparison of sorting algorithm runtimes].",
+      "metadata": {
+        "word_count": 72,
+        "estimated_duration": 36.0,
+        "complexity_score": 0.39015335806697105,
+        "complexity_metrics": {
+          "lexical_complexity": 0.141,
+          "syntactic_complexity": 0.042,
+          "semantic_complexity": 0.044,
+          "grammar_complexity": 0.056,
+          "readability_complexity": 0.107,
+          "avg_word_length": 5.92,
+          "complex_word_ratio": 0.356,
+          "lexical_diversity": 0.74,
+          "avg_sentence_length": 9.12,
+          "clausal_density": 1.0,
+          "subordination_ratio": 0.0,
+          "entity_density": 0.082,
+          "academic_ratio": 0.356,
+          "sentence_types": {
+            "simple": 4,
+            "compound": 4,
+            "complex": 0,
+            "compound_complex": 0
+          },
+          "flesch_reading_ease": 20.45,
+          "flesch_kincaid_grade": 12.5,
+          "gunning_fog": 12.14,
+          "smog_index": 12.6
+        }
+      }
+    },
+    {
+      "scene": 4,
+      "title": "## Programming Languages",
+      "scene_type": "main_content",
+      "states": [
+        "Object",
+        "Functional",
+        "Programming Languages",
+        "Each",
+        "Critical"
+      ],
+      "features": [
+        "Critical: Object-oriented programming focuses on objects and classes",
+        "Functional programming treats computation as evaluation of mathematical functions",
+        "Each language has unique features and applications"
+      ],
+      "weighted_features": [
+        {
+          "text": "Critical: Object-oriented programming focuses on objects and classes",
+          "importance": 1.0
+        },
+        {
+          "text": "Functional programming treats computation as evaluation of mathematical functions",
+          "importance": 0.7999999999999999
+        },
+        {
+          "text": "Each language has unique features and applications",
+          "importance": 0.7119706171751021
+        }
+      ],
+      "visual_cues": [],
+      "natural_content": "## Programming Languages Each language has unique features and applications. Critical: Object-oriented programming focuses on objects and classes. Functional programming treats computation as evaluation of mathematical functions.",
+      "metadata": {
+        "word_count": 27,
+        "estimated_duration": 13.5,
+        "complexity_score": 0.4937731481481481,
+        "complexity_metrics": {
+          "lexical_complexity": 0.178,
+          "syntactic_complexity": 0.042,
+          "semantic_complexity": 0.07,
+          "grammar_complexity": 0.062,
+          "readability_complexity": 0.141,
+          "avg_word_length": 7.26,
+          "complex_word_ratio": 0.519,
+          "lexical_diversity": 0.889,
+          "avg_sentence_length": 9.0,
+          "clausal_density": 1.0,
+          "subordination_ratio": 0.0,
+          "entity_density": 0.037,
+          "academic_ratio": 0.667,
+          "sentence_types": {
+            "simple": 1,
+            "compound": 2,
+            "complex": 0,
+            "compound_complex": 0
+          },
+          "flesch_reading_ease": -13.51,
+          "flesch_kincaid_grade": 17.3,
+          "gunning_fog": 18.86,
+          "smog_index": 14.6
+        }
+      }
+    },
+    {
+      "scene": 5,
+      "title": "@@diagram: Programming paradigm hierarchy",
+      "scene_type": "diagram_required",
+      "states": [
+        "Programming"
+      ],
+      "features": [],
+      "weighted_features": [],
+      "visual_cues": [
+        "[Diagram: Programming paradigm hierarchy]",
+        "[Diagram: @@diagram: Programming paradigm hierarchy]"
+      ],
+      "natural_content": "@@diagram: Programming paradigm hierarchy",
+      "metadata": {
+        "word_count": 4,
+        "estimated_duration": 2.0,
+        "complexity_score": 0.47986111111111107,
+        "complexity_metrics": {
+          "lexical_complexity": 0.244,
+          "syntactic_complexity": 0.011,
+          "semantic_complexity": 0.075,
+          "grammar_complexity": 0.037,
+          "readability_complexity": 0.112,
+          "avg_word_length": 9.25,
+          "complex_word_ratio": 1.0,
+          "lexical_diversity": 1.0,
+          "avg_sentence_length": 4.0,
+          "clausal_density": 0.0,
+          "subordination_ratio": 0.0,
+          "entity_density": 0.0,
+          "academic_ratio": 0.75,
+          "sentence_types": {
+            "simple": 1,
+            "compound": 0,
+            "complex": 0,
+            "compound_complex": 0
+          },
+          "flesch_reading_ease": -76.41,
+          "flesch_kincaid_grade": 24.9,
+          "gunning_fog": 41.6,
+          "smog_index": 0.0
+        }
+      }
+    },
+    {
+      "scene": 6,
+      "title": "## Modern Applications",
+      "scene_type": "image_required",
+      "states": [
+        "Modern Applications",
+        "Cloud Computing",
+        "Show",
+        "Machine Learning",
+        "Blockchain",
+        "Visual"
+      ],
+      "features": [
+        "Machine Learning is transforming industries through data-driven insights",
+        "Blockchain technology ensures secure, decentralized transactions",
+        "Cloud Computing enables scalable and flexible computing resources"
+      ],
+      "weighted_features": [
+        {
+          "text": "Machine Learning is transforming industries through data-driven insights",
+          "importance": 1.0
+        },
+        {
+          "text": "Blockchain technology ensures secure, decentralized transactions",
+          "importance": 0.95
+        },
+        {
+          "text": "Cloud Computing enables scalable and flexible computing resources",
+          "importance": 0.8999999999999999
+        }
+      ],
+      "visual_cues": [
+        "[Visual: Show image of real-world applications]"
+      ],
+      "natural_content": "## Modern Applications Machine Learning is transforming industries through data-driven insights. Cloud Computing enables scalable and flexible computing resources. Blockchain technology ensures secure, decentralized transactions. [Visual: Show image of real-world applications].",
+      "metadata": {
+        "word_count": 31,
+        "estimated_duration": 15.5,
+        "complexity_score": 0.4652430555555555,
+        "complexity_metrics": {
+          "lexical_complexity": 0.179,
+          "syntactic_complexity": 0.043,
+          "semantic_complexity": 0.059,
+          "grammar_complexity": 0.047,
+          "readability_complexity": 0.137,
+          "avg_word_length": 7.38,
+          "complex_word_ratio": 0.469,
+          "lexical_diversity": 0.938,
+          "avg_sentence_length": 8.0,
+          "clausal_density": 1.25,
+          "subordination_ratio": 0.0,
+          "entity_density": 0.094,
+          "academic_ratio": 0.5,
+          "sentence_types": {
+            "simple": 3,
+            "compound": 1,
+            "complex": 0,
+            "compound_complex": 0
+          },
+          "flesch_reading_ease": -3.83,
+          "flesch_kincaid_grade": 15.7,
+          "gunning_fog": 19.0,
+          "smog_index": 14.2
+        }
+      }
+    },
+    {
+      "scene": 7,
+      "title": "@@image: AI and human interaction examples",
+      "scene_type": "image_required",
+      "states": [],
+      "features": [],
+      "weighted_features": [],
+      "visual_cues": [
+        "[Image: @@image: AI and human interaction examples]",
+        "[Image: AI and human interaction examples]"
+      ],
+      "natural_content": "@@image: AI and human interaction examples",
+      "metadata": {
+        "word_count": 6,
+        "estimated_duration": 3.0,
+        "complexity_score": 0.3940206944444445,
+        "complexity_metrics": {
+          "lexical_complexity": 0.161,
+          "syntactic_complexity": 0.017,
+          "semantic_complexity": 0.05,
+          "grammar_complexity": 0.075,
+          "readability_complexity": 0.091,
+          "avg_word_length": 6.0,
+          "complex_word_ratio": 0.333,
+          "lexical_diversity": 1.0,
+          "avg_sentence_length": 6.0,
+          "clausal_density": 0.0,
+          "subordination_ratio": 0.0,
+          "entity_density": 0.0,
+          "academic_ratio": 0.5,
+          "sentence_types": {
+            "simple": 0,
+            "compound": 1,
+            "complex": 0,
+            "compound_complex": 0
+          },
+          "flesch_reading_ease": 14.63,
+          "flesch_kincaid_grade": 12.7,
+          "gunning_fog": 15.73,
+          "smog_index": 0.0
+        }
+      }
+    }
+  ],
+  "parser_metadata": {
+    "version": "1.2.0",
+    "timestamp": "2025-04-13T02:20:34.307649",
+    "enhancements": [
+      "visual_cue_markers",
+      "feature_importance_weighting",
+      "advanced_complexity_metrics",
+      "grammar_analysis",
+      "readability_metrics"
+    ]
+  }
+}
