@@ -1,7 +1,7 @@
 # AI Video Teacher
 
 <div align="center">
-  <img src="https://via.placeholder.com/650x300?text=AI+Video+Teacher" alt="AI Video Teacher Banner"/>
+  <img src="https://placehold.co/650x300/0D1117/1F6FEB.png?text=AI+Video+Teacher" alt="AI Video Teacher Banner"/>
   <p><em>Transform scripts into engaging whiteboard-style educational videos</em></p>
 </div>
 
